@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@angular/cli": "^14.2.9",
+    "@auth0/auth0-angular": "^1.11.1"
+  }
+}
